@@ -4,7 +4,7 @@ This is a case for the Raspberry Pi 5 that I made to learn how to use FreeCAD. T
 
 ## Mk1 Print
 
-![Mk1 Inside View](/img/mk1/mk1-inside.jpg) ![Mk1 Top View](/img/mk1/mk1-top.jpg) ![Mk1 Side View](/img/mk1/mk1-side.jpg) ![Mk1 Back View](/img/mk1/mk1-back.jpg)
+<img src="drawing.jpg" alt="drawing" width=140>
 
 The first attempt at modeling the case went better than I expected. The Pi fit snugly into the case, the hole for the ethernet and USB ports was perfect, the stilts the board sat on were of a resonable size relative to the case, and the ventilation pockets were perfect. Unfortunately several 
 things were wrong with this first model. Every screwhole in the body of the case was too small and the screwholes in the lid did not allow free motion of the screw. I also forgot to account for the thickness of the PCB when making the pocket for the USBC and microHDMI ports, resulting in the 
