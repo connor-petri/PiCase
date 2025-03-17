@@ -25,3 +25,9 @@ so I chose those for the diameter of the body and lid holes respectively.
 Along with the changes to the screw holes, I made the pocket for the USBC and microHDMI ports taller, carved out a new pocket for the SD card that actually allowed my fingers to get inside, carved a divot into the bottom vent for power button access, and lowered the top of the body by 5mm.
 These changes resulted in a snug fit for both the pi and the screws. While this version was huge improvement and was actually useable, there were still some issues. The 1mm fillet on the lid caused the screw holes in the lid to require wedging, the power button is *really* hard to access,
 and the pocket for the USBC and microHDMI ports could stand to be a few millimeters wider to accound for wide cords. Overall, this print was a success and it will likely be the basis for my Pi powered cyberdeck.
+
+## Mk3 Model
+
+<img src="/img/mk3/mk3-1.png" alt="mk3" width=400> <img src="/img/mk3/mk3-2.png" alt="mk3" width=400>
+
+I did not print this one as I don't actually plan on using this case, but I made a few changes to fix the problems present in the Mk2 print. I made the long sides of the walls 5mm thick instead of 3mm, raised the back vents, enlarged the power button pocket, and redesigned the lid to accomodate the body's new dimensions. Overall, I am very happy with how well this turned out for my first time designing and printing something.
